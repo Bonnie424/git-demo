@@ -1,1 +1,2 @@
-console.log("bonnie")
+let name = "bonnie"
+console.log(`name = ${name}`)
