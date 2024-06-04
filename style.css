@@ -1,7 +1,11 @@
-h1 {
-  color: greenyellow;
+.title {
+  color: #0ABAB5;
 }
 
 p {
   color: chocolate;
+}
+
+.wallet-info {
+  margin-bottom: 20px;
 }
